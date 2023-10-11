@@ -3,8 +3,8 @@
 ## Phase 1: Planning and Preparation ( 2 days )
 
 1) **Defining goals and target audience:**
-   - [ ] Define the goals for Eden Linux.
-   - [ ] Identify the target audience and their needs.
+   - [x] Define the goals for Eden Linux <strong>- Develop a fast, functional, optimized and relatively easy-to-use GNU/Linux distribution that will be as popular as Garuda Linux.</strong>
+   - [x] Identify the target audience and their needs.<strong> - We are going to make an optimized, fast, functional and free distribution, so the main audience will be progrmists, geeks, nerds, etc., but we will be happy to see common users as well, because our distribution can be used by everyone. </strong>
 
 2) **Learning Arch Linux:**
    - [ ] Study the structure and features of Arch Linux in depth.
