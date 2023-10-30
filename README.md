@@ -1,9 +1,9 @@
 ## Description
 
-**Eden Linux** is a GNU/Linux distribution based on Arch Linux designed for programmers, but also suitable for general users. Its main features are speed, quality, freedom and reliability.
+**Calculus GNU/Linux** is a vibrant community of developers dedicated to the creation and promotion of a GNU/Linux distribution that places a strong emphasis on security, privacy, and user-friendliness. Rooted in the power of open source software, our mission is clear: to deliver a reliable and customizable operating system that respects user privacy and provides an exceptional computing experience.
 
 To report bugs and request new tools, message us on Telegram, Matrix, or Email us
 
 ## Installation
 
-soon
+Soon
