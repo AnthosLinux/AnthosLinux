@@ -4,6 +4,13 @@
 
 To report bugs and request new tools, message us on Telegram, Matrix, or Email us
 
+## Distros
+
+| Version      | init      | WM / DE    |
+|--------------|-----------|------------|
+| Avarage      | systemd   | KDE, GNOME, LXQt, Xfce, i3-wm, Hyperland|
+| Geek         | dinit or SysVinit or s6  | LXQt, Xfce, i3-wm, Sway, dwm, Hyperland, XMonad |
+
 ## Installation
 
 Soon
