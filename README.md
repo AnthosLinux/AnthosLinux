@@ -11,6 +11,10 @@ To report bugs and request new tools, message us on Telegram, Matrix, or Email u
 | Avarage      | systemd   | KDE, GNOME, LXQt, Xfce, i3-wm, Hyperland|pacman-contrib, dust, rdfind, neovim, free, trizen, libreoffice, micro, fish, alacritty | firefox, tor-browser-bin, ansiweather |
 | Geek         | dinit or SysVinit or s6  | LXQt, Xfce, i3-wm, Sway, dwm, Hyperland, XMonad, bspwm |pacman-contrib, dust, rdfind, neovim, free, trizen, micro, firefox, fish, alacritty | librewolf-bin, tor-browser-bin, ansiweather |
 
+## Default programs
+
+
+
 ## Installation
 
 Soon
