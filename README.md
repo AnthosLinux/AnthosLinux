@@ -16,13 +16,14 @@ To report bugs and request new tools, message us on Telegram, Matrix, or Email u
 | **Torrent Client** | qBitTorrent    | qBitTorrent           |
 | **Video player**   | mpv            | mpv                   |
 | **Office suite**   | LibreOffice    | LibreOffice           |
+| **Wallpaper**      | feh            | feh                   |
 
 ## Distros
 
 | Version      | init                     | WM / DE    | Packages [pacman]|Packages [aur]|
 |--------------|--------------------------|------------|------------------|--------------|
-| Avarage      | systemd                  | KDE, GNOME, LXQt, Xfce, i3-wm, Hyperland | pacman-contrib, dust, rdfind, neovim, free, trizen, libreoffice, micro, fish, alacritty, qbittorent, thunar, mpv, | firefox, tor-browser-bin, ansiweather |
-| Geek         | dinit or SysVinit or s6  | LXQt, Xfce, i3-wm, Sway, dwm, Hyperland, XMonad, bspwm | pacman-contrib, dust, rdfind, neovim, free, trizen, micro, firefox, fish, alacritty, qbittorent, libreoffice, thunar, mpv  | librewolf-bin, tor-browser-bin, ansiweather |
+| Avarage      | systemd                  | KDE, GNOME, LXQt, Xfce, i3-wm, Hyperland | pacman-contrib, dust, rdfind, neovim, feh, free, trizen, libreoffice, micro, fish, alacritty, qbittorent, thunar, mpv, | firefox, tor-browser-bin, ansiweather |
+| Geek         | dinit or SysVinit or s6  | LXQt, Xfce, i3-wm, Sway, dwm, Hyperland, XMonad, bspwm | pacman-contrib, feh, dust, rdfind, neovim, free, trizen, micro, firefox, fish, alacritty, qbittorent, libreoffice, thunar, mpv  | librewolf-bin, tor-browser-bin, ansiweather |
 
 ## Installation
 
