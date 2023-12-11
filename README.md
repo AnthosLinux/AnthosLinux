@@ -55,6 +55,7 @@ Select the desired environment for the system:
 | alacritty             | Terminal                                     | Apache-2.0, MIT            |
 | fish                  | Shell                                        | GPL-2.0                    |
 | LibreWolf             | Browser                                      | Mozilla Public License 2.0 |
+| Tor Browser           | Privacy Browser                              | Mozilla Public License 2.0 |
 | NeoVim                | Vim-like Text editor                         | Apache 2.0                 |
 | Micro                 | Nano-like Text editor                        | MIT                        |
 | Thunar                | GUI File manager                             | GPL-2.0                    |
@@ -62,3 +63,15 @@ Select the desired environment for the system:
 | LibreOffice           | Office Suite                                 | GPL-3.0, LGPL-3.0, MPL-2.0 |
 | qBitTorrent           | Torrent Client                               | GPL-2.0, GPL-3.0           |
 | mpv                   | Video player                                 | LGPL-3.0, GPL-2.0          |
+
+# Packages
+
+| Package               | Description                                  | 
+| --------------------- | -------------------------------------------- |
+| pacman-contrib        | Tools for pacman systems                     | 
+| dust                  | Disk usage                                   | 
+| rdfind                | Program that finds duplicate files           |
+| trizen                | Lightweight pacman wrapper and AUR helper    | 
+| feh                   | Fast and light imlib2-based image viewer     |
+| ansiweather           | Script for displaying the current weather    |
+
