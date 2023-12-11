@@ -1,30 +1,64 @@
-## Description
+# Anthos Linux
 
-**Anthos GNU/Linux** is a vibrant community of developers dedicated to the creation and promotion of a GNU/Linux distribution that places a strong emphasis on security, privacy, and user-friendliness. Rooted in the power of open source software, our mission is clear: to deliver a reliable and customizable operating system that respects user privacy and provides an exceptional computing experience.
+**Anthos Linux** is an optimized, stable and free Linux distribution based on Arch Linux, created by a small team of developers who advocate free and open source software. It is ideal for absolutely any user, from developers and administrators to ordinary users who want to use a powerful and stable Linux distribution to work in Anthos clusters or other scenarios.
 
-To report bugs and request new tools, message us on Telegram, Matrix, or Email us
+**_Developed in Ukraine, made for the world._**
 
-## Default programs
-
-| Programs           | Avarage ver.   | Geek ver.             |
-|--------------------|----------------|-----------------------|
-| **Terminal**       | Alacritty      | Alacritty             |
-| **Browser**        | Firefox        | LibreWolf             |
-| **Text Editor**    | NeoVim & Micro | NeoVim & Micro        |
-| **File Manager**   | Thunar         | Thunar                |
-| **Shell**          | Fish           | Fish                  |
-| **Torrent Client** | qBitTorrent    | qBitTorrent           |
-| **Video player**   | mpv            | mpv                   |
-| **Office suite**   | LibreOffice    | LibreOffice           |
-| **Wallpaper**      | feh            | feh                   |
-
-## Distros
-
-| Version      | init                     | WM / DE    | Packages [pacman]|Packages [aur]|
-|--------------|--------------------------|------------|------------------|--------------|
-| Avarage      | systemd                  | KDE, GNOME, LXQt, Xfce, i3-wm, Hyperland | pacman-contrib, dust, rdfind, neovim, feh, free, trizen, libreoffice, micro, fish, alacritty, qbittorent, thunar, mpv, | firefox, tor-browser-bin, ansiweather |
-| Geek         | dinit or SysVinit or s6  | LXQt, Xfce, i3-wm, Sway, dwm, Hyperland, XMonad, bspwm | pacman-contrib, feh, dust, rdfind, neovim, free, trizen, micro, firefox, fish, alacritty, qbittorent, libreoffice, thunar, mpv  | librewolf-bin, tor-browser-bin, ansiweather |
+</div>
 
 ## Installation
 
-Soon
+Select the desired environment for the system:
+
+**DE:**
+   <details>
+   <summary>KDE</summary>
+    soon
+   </details>
+
+   <details>
+   <summary>LXQt</summary>
+   soon
+   </details>
+
+   <details>
+   <summary>Xfce</summary>
+   soon
+   </details>
+
+   **WM:**
+
+   <details>
+   <summary>i3-wm</summary>
+   soon
+   </details>
+
+   <details>
+   <summary>sway</summary>
+   soon
+   </details>
+
+   <details>
+   <summary>Hyperland</summary>
+   soon
+   </details>
+
+   <details>
+   <summary>bspwm</summary>
+   soon
+   </details>
+
+## Default programs
+
+| Application           | Description                                  | Links                      |
+| --------------------- | -------------------------------------------- | -------------------------- |
+| alacritty             | Terminal                                     | Natively supported         |
+| fish                  | Shell                                        | Natively supported         |
+| LibreWolf             | Browser                                      | [clink-zoxide]             |
+| NeoVim                | Vim-like Text editor                         | [zoxide.el]                |
+| Micro                 | Nano-like Text editor                        | Natively supported         |
+| Thunar                | GUI File manager                             | Natively supported         |
+| nnn                   | TUI File manager                             | See the [wiki][lf-wiki]    |
+| LibreOffice           | Office Suite                                 | See the [wiki][lf-wiki]    |
+| qBitTorrent           | Torrent Client                               | See the [wiki][lf-wiki]    |
+| mpv                   | Video player                               | See the [wiki][lf-wiki]    |
