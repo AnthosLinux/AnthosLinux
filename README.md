@@ -50,15 +50,15 @@ Select the desired environment for the system:
 
 ## Default programs
 
-| Application           | Description                                  | Links                      |
+| Application           | Description                                  | License                    |
 | --------------------- | -------------------------------------------- | -------------------------- |
-| alacritty             | Terminal                                     | Natively supported         |
-| fish                  | Shell                                        | Natively supported         |
-| LibreWolf             | Browser                                      | [clink-zoxide]             |
-| NeoVim                | Vim-like Text editor                         | [zoxide.el]                |
-| Micro                 | Nano-like Text editor                        | Natively supported         |
-| Thunar                | GUI File manager                             | Natively supported         |
-| nnn                   | TUI File manager                             | See the [wiki][lf-wiki]    |
-| LibreOffice           | Office Suite                                 | See the [wiki][lf-wiki]    |
-| qBitTorrent           | Torrent Client                               | See the [wiki][lf-wiki]    |
-| mpv                   | Video player                               | See the [wiki][lf-wiki]    |
+| alacritty             | Terminal                                     | Apache-2.0, MIT            |
+| fish                  | Shell                                        | GPL-2.0                    |
+| LibreWolf             | Browser                                      | Mozilla Public License 2.0 |
+| NeoVim                | Vim-like Text editor                         | Apache 2.0                 |
+| Micro                 | Nano-like Text editor                        | MIT                        |
+| Thunar                | GUI File manager                             | GPL-2.0                    |
+| nnn                   | TUI File manager                             | BSD-2-Clause               |
+| LibreOffice           | Office Suite                                 | GPL-3.0, LGPL-3.0, MPL-2.0 |
+| qBitTorrent           | Torrent Client                               | GPL-2.0, GPL-3.0           |
+| mpv                   | Video player                                 | LGPL-3.0, GPL-2.0          |
