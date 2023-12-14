@@ -74,4 +74,4 @@ Select the desired environment for the system:
 | trizen                | Lightweight pacman wrapper and AUR helper    | 
 | feh                   | Fast and light imlib2-based image viewer     |
 | ansiweather           | Script for displaying the current weather    |
-
+| xclip                 | Clipboard                                    |
